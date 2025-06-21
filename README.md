@@ -22,7 +22,7 @@ This project explores statistical and machine learning methods to classify poten
 ### 🔍 Exploratory Analysis
 
 * Correlation matrices, scatterplots, and boxplots
-* Inferential statistics: chi-square tests, one-way ANOVA, point-biserial correlation
+* Inferential statistics: chi-square tests, one-way and two-way ANOVA, point-biserial correlation
 
 ### 🤖 Classification Model
 
